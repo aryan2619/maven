@@ -1,2 +1,2 @@
-# maven
+# maven project
 maven project
